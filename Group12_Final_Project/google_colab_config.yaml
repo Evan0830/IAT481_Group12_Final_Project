@@ -1,0 +1,8 @@
+path: '/content/drive/MyDrive/IAT481_Final_Project/data' # dataset root dir
+train: images/train
+val: images/val
+
+names:
+  0: policecar
+  1: ambulance
+  2: firetruck
